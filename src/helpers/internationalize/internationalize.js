@@ -1,12 +1,12 @@
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
-import translation_in_ky from "./translation_in_kg.json"
+import translation_in_kg from "./translation_in_kg.json"
 import translation_in_ru from "./translation_in_ru.json"
 
 
 const resources = {
-	ky: {
-		translation: translation_in_ky,
+	kg: {
+		translation: translation_in_kg,
 	},
 	ru: {
 		translation: translation_in_ru,
